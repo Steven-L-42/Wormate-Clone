@@ -1,0 +1,2982 @@
+fileFormatVersion: 2
+guid: ee33e39ca5cad3e458ea2402b43c7ba6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wear_101
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1913
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a60f8b77429a544aa532748bd7840b
+      internalID: -1980486422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_144
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1931
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c861245ad469d2428ed537a0941aeea
+      internalID: -616175360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_153
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1834
+        width: 67
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c86fecf8764f04b84467af8e1070e6
+      internalID: -264417819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_154
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1832
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aa7de3874578446b24c1355244bbc2
+      internalID: 1363875488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_155
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1827
+        width: 42
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb6d747dbe22844783b95d926076675
+      internalID: 1179884028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_156
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 1768
+        width: 36
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57746129dcbd7cd47a1f340336a0f11a
+      internalID: 1408738252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_162
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1790
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb6ff399e0d4c94b92773383f2fdbb8
+      internalID: 918900945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_163
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1790
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244eff85cf2f6e549b1258877c8d9fcd
+      internalID: -895275604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_192
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1702
+        width: 93
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac7e9cf42e8f8840af44b05eb458fec
+      internalID: -98266054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_198
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1641
+        width: 72
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9d66ec70a8c5744a722a0a0a17536c
+      internalID: 536756498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_204
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1628
+        width: 72
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dad26e44f5790d4b9e8584dbe8e1b96
+      internalID: 160858920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_208
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1599
+        width: 72
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3367db65da2840478abe93f6b5fcee3
+      internalID: -1669546025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_225
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1549
+        width: 72
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e683e9731a5c38747be30c5bf30a6240
+      internalID: -2038899469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_226
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1510
+        width: 72
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785324e64a812dd489c9642c57b83486
+      internalID: 1673245210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_227
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1504
+        width: 72
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bc9883f9ffc934c91a8821675f4be6
+      internalID: 757799546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_232
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1499
+        width: 72
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dbd12748c4da7449b0241eaca47a7c
+      internalID: 1115140333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_233
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1498
+        width: 178
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b21c2809df28845b755be06e7a338b
+      internalID: -1499673820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_234
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1492
+        width: 77
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba0f3ae54bb8d941897fd4e33d4f198
+      internalID: 836233469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_235
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1490
+        width: 78
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325e53bb5665e6944bb0271be3e179b8
+      internalID: -401520248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_236
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1486
+        width: 77
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ffe8e8d3c74724a89fc0ca91cf340c
+      internalID: -2100979550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_242
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1358
+        width: 184
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d90a36ecfc4684e8ea44eb83f88ff6
+      internalID: 124942987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_244
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1350
+        width: 181
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bf06a0c7c183e4da831a61b737191f
+      internalID: -867822449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_246
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1477
+        width: 78
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab2b14297ba7fa4cb63d303f0f9497a
+      internalID: -892035049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_247
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1464
+        width: 77
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ab76ad0c46dce4f9839f36cab9c7a1
+      internalID: -620176599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_248
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1457
+        width: 78
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7451b4719cc29745bf60278b65414e3
+      internalID: 709039821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_249
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1452
+        width: 77
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6519e210f7373654e8718a1adf80daef
+      internalID: 738025274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_250
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1446
+        width: 85
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82eb37f01d2ff0419e0414c88d16671
+      internalID: -263164617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_251
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1441
+        width: 85
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718ee82ada8560543b9f0bce8c53fb6d
+      internalID: -306136943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_252
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1437
+        width: 85
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63652e46bc4548f43bd872721add1270
+      internalID: 1768855163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_253
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1435
+        width: 85
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f7b9455c573a0418db78771486dfc5
+      internalID: -77378767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_254
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1433
+        width: 85
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6c599193d79fa4f96835b2ad6b5a27
+      internalID: 471617357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_255
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1426
+        width: 85
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c424b8e979b2044caf45b324b7e2335
+      internalID: -1232368311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_256
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1422
+        width: 85
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc394a9a970095c4b81439c67220a794
+      internalID: -581536618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_257
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1415
+        width: 84
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0c7d99354d669499baf9a15b8423cb
+      internalID: 368270456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_260
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1407
+        width: 145
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d1c8dcf36078f4bac9b5722024b350
+      internalID: -1203808339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_261
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1211
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4f273cd8c2a8141b93a7f643e308f1
+      internalID: -229984685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_262
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1209
+        width: 158
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a45e0901aaba246930601a406e8908
+      internalID: 796955932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_263
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1202
+        width: 78
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307d05038f8c2fc4896024d90ff5dcf2
+      internalID: -144343745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_264
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1201
+        width: 158
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb3eb028aeb6144682e60403597e055
+      internalID: 702266272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_265
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1190
+        width: 78
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed35bc6cce86544d93acb8e466528a9
+      internalID: 1724174193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_266
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1332
+        width: 100
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bd90907391af54ab29ea04a2aea16f
+      internalID: -109499808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_267
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1319
+        width: 100
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4801b9bfd67b943b98582ed9889e32
+      internalID: -1489621568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_268
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1311
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4d1ca891234e64a9a55a6f8341cd29
+      internalID: -329682044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_270
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1301
+        width: 100
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069ef401e17e076468d87bac7587d08d
+      internalID: -315234633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_272
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1292
+        width: 100
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d2bc346e508414e8ddbb8830aa5ba8
+      internalID: -1275248905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_274
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1288
+        width: 100
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3fcea98c350394fa18f36d95118c5a
+      internalID: -1611301137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_277
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1270
+        width: 100
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b682f2971e145448c0bf34d1643b1b
+      internalID: 388338812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_278
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 1264
+        width: 100
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35b8c594343cd74d9ba30fa1a05d565
+      internalID: 917923759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_281
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1053
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434c4596cc3e42845bc5165513d413f8
+      internalID: 1724122472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_282
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1047
+        width: 58
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbb3c4b6bfb7c24ab8a2c43358f6d7f
+      internalID: -245325231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_283
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1045
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd6652407cc5e0488dc5b9018f1f4ed
+      internalID: 1851320424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_284
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1045
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f79880671d9754ea586c36b9055b5b
+      internalID: 2010921098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_285
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1180
+        width: 78
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bd1071028751046811fd6551f080e5
+      internalID: -875967425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_286
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1167
+        width: 78
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c377e91da3bf4241ba7e1ba34c68042
+      internalID: 572911537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_287
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1159
+        width: 78
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8242143b5b98df459dfe1f3897abf2f
+      internalID: 1716555525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_288
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1154
+        width: 78
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5055c2556f2099e479d85108e99fac10
+      internalID: 636997298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_289
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1149
+        width: 78
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32c8335d97aef34b9e46306d3294d8a
+      internalID: -1863380635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_290
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1143
+        width: 158
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0ff9970a067b5408083e1077fe86a6
+      internalID: 1257537700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_291
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1140
+        width: 158
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3876dd4abe63348979c73c551b46be
+      internalID: 213199172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_292
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1131
+        width: 158
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bee0f63a8946b84caea9ae97bcea945
+      internalID: 31290240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_293
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1121
+        width: 158
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb03355e99e1ad7439a6593ff40768a9
+      internalID: 210877013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_294
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 1108
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a56c9d2fb1c35d4192e3be0e6168a4f
+      internalID: 1883864692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_295
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1105
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159dd20323d7f4e40a7d747f6fcd1b5b
+      internalID: -1133861999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_297
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1024
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88314c9d64f0ad4d987f963d7211c53
+      internalID: 638106674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_298
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1003
+        width: 143
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58d7b7247aa24f41aa7e3bedc0a28fe
+      internalID: -257070625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_299
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 993
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc1025dfcb16514da9668d94ddc01f5
+      internalID: 566214212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_300
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 987
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fab006057c725459b47342f9fb0534
+      internalID: 167816698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_301
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 984
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e42d7e0977a0e84c97d6eb2f3cdbd5d
+      internalID: 944493370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_302
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 975
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919a241294ca8e748983ac127f8a5b29
+      internalID: 1150775363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_303
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 965
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555f50cc1cb95c344bf9eccae4955b44
+      internalID: 412694106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_304
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 953
+        width: 71
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b5fc8e3cf43ff43a4dce9ffeb89e52
+      internalID: 685401629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_305
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 952
+        width: 147
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaf340c1be162941ae63bc493a3282b
+      internalID: 826704290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_306
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 949
+        width: 147
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75778c98fc279e7418ae5b6cc8c9a13d
+      internalID: -910402723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_307
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 885
+        width: 131
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84d83ba92f446d4ab0c6c2053e3dfcd
+      internalID: 1272244644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_308
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 881
+        width: 159
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d7d8fb57ce90d4985977b20fd59e2f
+      internalID: 1116394110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_309
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 881
+        width: 159
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbff2d523d790d4892300184624e4a0
+      internalID: 874323824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_310
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 860
+        width: 159
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a3e65a610245b49bbd702226d908d6
+      internalID: 642959179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_311
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 838
+        width: 168
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757320357aee205429a9411760d6cbc8
+      internalID: 1136390128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_312
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 825
+        width: 131
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca19df1f0f4c5643b089ee41adb655b
+      internalID: 1986389150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_313
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 819
+        width: 131
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077baa04816554848a517277b2383928
+      internalID: -1073137781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_314
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 816
+        width: 131
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7125dbbe6e48e7429e146d7c4083e06
+      internalID: 469352446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_315
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 807
+        width: 131
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f84acaaebc20f45b455f739d7d9768
+      internalID: 1499111067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_316
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 797
+        width: 131
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762e58ae8d450f643a9e39c42e07a2e6
+      internalID: -1805527498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_317
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 785
+        width: 131
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356261702125a8b4fbf9eb8cb927e63d
+      internalID: 2147182429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_318
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 782
+        width: 163
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a666a13eab7b04ab8016eb33db972f
+      internalID: -508261186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_320
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 773
+        width: 114
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bee267c35c3a4b4aae31de5b3fe75fc
+      internalID: 812453142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_321
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 710
+        width: 117
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67bc9519a47b7e4c852b0fb4872adbd
+      internalID: -133671837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_322
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 705
+        width: 122
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4723f4fadfea1a74181b5b985b7d433e
+      internalID: -905121087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_323
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 705
+        width: 122
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3b7a993682f174a9c1370f04c804e5
+      internalID: 407284633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_324
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 684
+        width: 122
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e575601201b36774ca27861c387e0c15
+      internalID: -2128260279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_325
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 680
+        width: 99
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f2714b6887c5e46906f67e3c333e5d
+      internalID: -1197773430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_326
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 662
+        width: 122
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5bd16b25ac43d45a223c91f461a3a3
+      internalID: -2026887068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_327
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 649
+        width: 122
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832f6d9db8dfe5d42bf63044041b12de
+      internalID: -1105832831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_328
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 643
+        width: 122
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6700ebbe4d7c73049b33609cda4a28ec
+      internalID: -604439054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_329
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 640
+        width: 122
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13db53f6dfe3b634cbb8a0ee1e09bf39
+      internalID: 1049000045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_330
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 629
+        width: 143
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3708d6a0bf13341ad3f6bdb06dad20
+      internalID: -1800120140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_331
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 619
+        width: 143
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303e97be71fe1fe4091780474b2611e1
+      internalID: -741243052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_332
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 607
+        width: 143
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3c415508667c14583e9afca294e9eb
+      internalID: -1078596405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_333
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 604
+        width: 143
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38101c5a8de9874abeebcdcacf390a4
+      internalID: -963446749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_334
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 599
+        width: 143
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c751b8064e3bdc4098df464ab92f594
+      internalID: 987854639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_335
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 595
+        width: 143
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c3c7b4ef803ed4d86ae7da09671d52
+      internalID: -1972234183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_336
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 529
+        width: 99
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da1c1ea15fcc6d42a75fc690f8c126f
+      internalID: 1230265737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_337
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 527
+        width: 143
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6327ce4ba5fe8a141b4a1075d6557375
+      internalID: 1457006860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_338
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 524
+        width: 99
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea2224792f88fc48bfe1a37c5ad3e48
+      internalID: 1844954752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_339
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 502
+        width: 97
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbb0e485685a1149a94e27191b2e463
+      internalID: 935758485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_340
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 498
+        width: 97
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dba3f31e3552448be9730e99f88885
+      internalID: -2025126291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_341
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 484
+        width: 147
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da630654b59ffd44bbfdf268ae9aca0
+      internalID: 384281122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_342
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 467
+        width: 97
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983bb58f080ba8b4d9b6e6dda5a8af43
+      internalID: 1017605670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_343
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 440
+        width: 160
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f325e6de4893c2140ae05879415c467f
+      internalID: 925879419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_344
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 426
+        width: 159
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e669652fb8f33d346b2819e9629ef056
+      internalID: -1768668507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_345
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 416
+        width: 160
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe061c363ba735748b2afd530f708431
+      internalID: -758170440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_346
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 404
+        width: 92
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c63f873b72f784d9c93b90d603d7c5
+      internalID: 62126855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_347
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 397
+        width: 177
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d29961b1c4e664d865222c44a49501
+      internalID: -701751924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_348
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 382
+        width: 114
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60303b95648f9d45bd7fda209c20ef0
+      internalID: -780317457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_349
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 349
+        width: 79
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95caec624fe0414d9d9e9578facc83a
+      internalID: 887224696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_350
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 345
+        width: 79
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485a36b44d2cff74cb03529603b3e28a
+      internalID: 714134172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wear_351
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 339
+        width: 54
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c72f74864423f47a45e2fccec3588f
+      internalID: 1692994393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      wear_73: -1077671940
+      wear_116: -705410143
+      wear_102: 490484409
+      wear_42: 1462146908
+      wear_245: 790580173
+      wear_133: 1703026621
+      wear_40: 598232073
+      wear_340: -2025126291
+      wear_314: 469352446
+      wear_188: -317417063
+      wear_225: -2038899469
+      wear_286: 572911537
+      wear_264: 702266272
+      wear_137: 735379973
+      wear_311: 1136390128
+      wear_343: 925879419
+      wear_71: -1772694685
+      wear_206: 1660151740
+      wear_142: -818774779
+      wear_152: -2117910110
+      wear_3: -480886965
+      wear_229: 979400083
+      wear_85: 255282770
+      wear_307: 1272244644
+      wear_180: 1572984821
+      wear_70: 1178335223
+      wear_138: -101990472
+      wear_174: -2005282818
+      wear_348: -780317457
+      wear_131: -60680001
+      wear_221: 873014945
+      wear_83: 1213201654
+      wear_111: 1275499244
+      wear_190: -285471870
+      wear_240: 1738321169
+      wear_49: 92872786
+      wear_219: 539463187
+      wear_179: -2073028599
+      wear_289: -1863380635
+      wear_328: -604439054
+      wear_46: 1706003532
+      wear_113: -586871473
+      wear_329: 1049000045
+      wear_236: -2100979550
+      wear_198: 536756498
+      wear_216: 1638294643
+      wear_8: -1353091360
+      wear_347: -701751924
+      wear_220: -246669815
+      wear_97: -320803564
+      wear_204: 160858920
+      wear_157: 1351151333
+      wear_257: 368270456
+      wear_321: -133671837
+      wear_48: 756345836
+      wear_52: -793617422
+      wear_35: 251803920
+      wear_55: 1954804022
+      wear_143: -946780649
+      wear_147: -1516600076
+      wear_304: 685401629
+      wear_11: -554607083
+      wear_246: -892035049
+      wear_300: 167816698
+      wear_121: 139193207
+      wear_333: -963446749
+      wear_12: 1125700163
+      wear_84: 2003917388
+      wear_247: -620176599
+      wear_331: -741243052
+      wear_53: -1574773226
+      wear_163: -895275604
+      wear_98: -2004533736
+      wear_254: 471617357
+      wear_271: -1616759932
+      wear_2: 87147086
+      wear_213: -1638994258
+      wear_30: 1247537983
+      wear_278: 917923759
+      wear_24: 1360314731
+      wear_237: 1390089652
+      wear_36: 1299701609
+      wear_6: 1107740174
+      wear_146: 911457493
+      wear_353: -1385430035
+      wear_59: 771927348
+      wear_162: 918900945
+      wear_305: 826704290
+      wear_58: 863303229
+      wear_118: -98188409
+      wear_25: 1865624810
+      wear_1: -1971459526
+      wear_325: -1197773430
+      wear_154: 1363875488
+      wear_100: -626284611
+      wear_281: 1724122472
+      wear_309: 874323824
+      wear_44: 1652853117
+      wear_223: 2122518442
+      wear_215: 1517627171
+      wear_69: -2093770523
+      wear_327: -1105832831
+      wear_346: 62126855
+      wear_182: 1732885187
+      wear_282: -245325231
+      wear_242: 124942987
+      wear_338: 1844954752
+      wear_315: 1499111067
+      wear_341: 384281122
+      wear_201: -1078383257
+      wear_27: 982275543
+      wear_261: -229984685
+      wear_306: -910402723
+      wear_319: -846210174
+      wear_50: 1727282166
+      wear_185: -607561825
+      wear_234: 836233469
+      wear_317: 2147182429
+      wear_168: 1545895530
+      wear_103: 218491723
+      wear_339: 935758485
+      wear_252: 1768855163
+      wear_299: 566214212
+      wear_279: -718195110
+      wear_28: 919047651
+      wear_124: 1695141028
+      wear_259: -481486733
+      wear_150: -1378241095
+      wear_235: -401520248
+      wear_224: 1616531777
+      wear_72: 626791413
+      wear_151: 1632287295
+      wear_122: -312609540
+      wear_324: -2128260279
+      wear_136: 782465001
+      wear_203: 1174222484
+      wear_104: 752561599
+      wear_354: -923357148
+      wear_75: 1769376851
+      wear_249: 738025274
+      wear_176: 1907057394
+      wear_0: 406320008
+      wear_313: -1073137781
+      wear_260: -1203808339
+      wear_335: -1972234183
+      wear_218: 640370924
+      wear_226: 1673245210
+      wear_303: 412694106
+      wear_258: -1411399521
+      wear_167: -398429213
+      wear_290: 1257537700
+      wear_63: 1627017099
+      wear_26: 2073114481
+      wear_320: 812453142
+      wear_88: 659543378
+      wear_161: 1796722657
+      wear_211: 1427714181
+      wear_196: 163014503
+      wear_212: 1473866051
+      wear_130: 566090147
+      wear_178: -1837805281
+      wear_256: -581536618
+      wear_177: -989770482
+      wear_153: -264417819
+      wear_291: 213199172
+      wear_160: 198224833
+      wear_283: 1851320424
+      wear_144: -616175360
+      wear_288: 636997298
+      wear_189: -1704150086
+      wear_149: -1569039514
+      wear_65: -265487718
+      wear_9: 1760817040
+      wear_15: -1972480046
+      wear_330: -1800120140
+      wear_45: 593633490
+      wear_77: -2058372225
+      wear_145: 1072782454
+      wear_191: 342528299
+      wear_5: -1806379583
+      wear_54: 2073661180
+      wear_129: 203036143
+      wear_109: -873991758
+      wear_192: -98266054
+      wear_74: 620728983
+      wear_222: 1120129883
+      wear_207: 1886966819
+      wear_170: -495220616
+      wear_273: -2005192032
+      wear_293: 210877013
+      wear_127: 1186557783
+      wear_280: -1801938226
+      wear_34: 646432586
+      wear_268: -329682044
+      wear_64: -1471193824
+      wear_18: 152541548
+      wear_22: 137908078
+      wear_158: -1750164951
+      wear_101: -1980486422
+      wear_60: -1217902136
+      wear_66: 1429672124
+      wear_287: 1716555525
+      wear_298: -257070625
+      wear_239: 1746437546
+      wear_184: -779970900
+      wear_29: -1517812576
+      wear_19: -108433786
+      wear_275: -155667174
+      wear_123: -655936088
+      wear_231: 2024843163
+      wear_13: 1475213014
+      wear_32: -1958490557
+      wear_38: 505446853
+      wear_194: 913934729
+      wear_253: -77378767
+      wear_210: -1654960142
+      wear_47: -1189128893
+      wear_269: 1836410197
+      wear_90: -279468806
+      wear_301: 944493370
+      wear_181: 417316319
+      wear_217: 902467892
+      wear_209: 1138557902
+      wear_250: -263164617
+      wear_33: 359593756
+      wear_294: 1883864692
+      wear_350: 714134172
+      wear_23: 1280914721
+      wear_110: 766794571
+      wear_267: -1489621568
+      wear_171: -124148744
+      wear_99: -1836467176
+      wear_79: -155541801
+      wear_302: 1150775363
+      wear_43: 964341232
+      wear_195: -2098001865
+      wear_200: 1192033515
+      wear_312: 1986389150
+      wear_173: 354788243
+      wear_39: -771711590
+      wear_344: -1768668507
+      wear_106: -527637441
+      wear_326: -2026887068
+      wear_93: -1353070577
+      wear_316: -1805527498
+      wear_263: -144343745
+      wear_248: 709039821
+      wear_323: 407284633
+      wear_20: 1674355332
+      wear_230: 1401831784
+      wear_119: 1293830281
+      wear_186: 1871469639
+      wear_107: -170035979
+      wear_351: 1692994393
+      wear_126: -672203939
+      wear_238: 1617403385
+      wear_285: -875967425
+      wear_199: 1446895200
+      wear_105: -2060239007
+      wear_115: -872925338
+      wear_140: 1393797700
+      wear_262: 796955932
+      wear_37: -693226114
+      wear_78: -875105532
+      wear_81: -79540934
+      wear_57: -1247753708
+      wear_276: 1619772125
+      wear_128: 2096916091
+      wear_284: 2010921098
+      wear_16: -2046973273
+      wear_120: -2062025136
+      wear_322: -905121087
+      wear_197: -1492168230
+      wear_296: 617561362
+      wear_244: -867822449
+      wear_345: -758170440
+      wear_193: 477621211
+      wear_62: -804791541
+      wear_68: -1020969712
+      wear_318: -508261186
+      wear_108: 1837568198
+      wear_117: -963110744
+      wear_76: 1318423966
+      wear_205: 1583922117
+      wear_332: -1078596405
+      wear_165: -276001630
+      wear_4: -707827977
+      wear_183: 225306058
+      wear_208: -1669546025
+      wear_187: -1135654255
+      wear_243: -1486120270
+      wear_148: 1603959716
+      wear_265: 1724174193
+      wear_255: -1232368311
+      wear_14: 1430525174
+      wear_135: -1553931587
+      wear_155: 1179884028
+      wear_172: -1336846056
+      wear_159: -1426236880
+      wear_96: -41211032
+      wear_336: 1230265737
+      wear_164: 1551997309
+      wear_67: 1315092274
+      wear_56: 1227464420
+      wear_51: -1993826956
+      wear_94: -1483830948
+      wear_166: -1336461886
+      wear_41: 1684792247
+      wear_114: -2147462851
+      wear_112: 1252130238
+      wear_334: 987854639
+      wear_82: 627253831
+      wear_7: -929470576
+      wear_17: 180471887
+      wear_214: 734012617
+      wear_277: 388338812
+      wear_125: 1336327226
+      wear_352: -802781083
+      wear_292: 31290240
+      wear_91: 1197496138
+      wear_169: -6317055
+      wear_31: 1722009170
+      wear_266: -109499808
+      wear_227: 757799546
+      wear_337: 1457006860
+      wear_233: -1499673820
+      wear_156: 1408738252
+      wear_92: -1922948663
+      wear_270: -315234633
+      wear_202: -1946570856
+      wear_80: 1982028622
+      wear_308: 1116394110
+      wear_295: -1133861999
+      wear_141: -1260609019
+      wear_251: -306136943
+      wear_132: 1989099198
+      wear_95: -801589269
+      wear_297: 638106674
+      wear_310: 642959179
+      wear_61: 1955317886
+      wear_342: 1017605670
+      wear_10: 1386255124
+      wear_228: -235694533
+      wear_349: 887224696
+      wear_87: 1897358220
+      wear_89: -646838699
+      wear_21: -1097792309
+      wear_134: -715597544
+      wear_274: -1611301137
+      wear_175: 1498872776
+      wear_139: 1316930495
+      wear_272: -1275248905
+      wear_86: 1227073497
+      wear_241: 88509557
+      wear_232: 1115140333
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

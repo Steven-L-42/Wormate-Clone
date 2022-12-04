@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Food
+  - Enemy
+  - Apple
+  - Fries
+  - Burger
+  - Hex
+  - PBody
+  - EBody
+  - PHead
+  - EHead
+  - NotEnemy
+  - bang
+  - ring
+  - Powerup
+  - Border
+  - ZoomOut
+  - BetterRotate
+  - Coin
+  - FastForward
+  - Heavy
+  - Magnetise
+  - Mistery
+  - Multi2
+  - Multi5
+  - Multi10
+  - Canvas
+  - Utilitys
+  - UIAbility1
+  - UIAbility2
+  - UIAbility3
+  - UIAbility4
+  - UIAbility5
+  - UIAbility6
+  - UIAbility7
+  - Rank1
+  - Rank2
+  - Rank3
+  - Rank4
+  - Rank5
+  - Rank6
+  - Rank7
+  - Rank8
+  - Rank9
+  - Rank10
+  - RankYour
+  - UIPlayerHead
+  - UIPlayer1
+  - UIPlayer2
+  - UIPlayer3
+  - UIPlayer4
+  - UIPlayer5
+  - UIPlayer6
+  - UIPlayer7
+  - UIPlayer8
+  - UIPlayer9
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - glow
+  - Water
+  - UI
+  - Minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BehindFoodAndCo
+    uniqueID: 3748415545
+    locked: 0
+  - name: FoodAndCo
+    uniqueID: 4006474513
+    locked: 0
+  - name: EBody
+    uniqueID: 47841309
+    locked: 0
+  - name: EHead
+    uniqueID: 2192845863
+    locked: 0
+  - name: Enemy
+    uniqueID: 3187947413
+    locked: 0
+  - name: EFace
+    uniqueID: 3277377307
+    locked: 0
+  - name: PBody
+    uniqueID: 2543952465
+    locked: 0
+  - name: PHead
+    uniqueID: 1032841179
+    locked: 0
+  - name: Player
+    uniqueID: 1958847467
+    locked: 0
+  - name: PFace
+    uniqueID: 1739196277
+    locked: 0
+  - name: Minimap
+    uniqueID: 3431710585
+    locked: 0

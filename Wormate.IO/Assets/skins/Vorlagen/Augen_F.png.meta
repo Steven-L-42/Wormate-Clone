@@ -1,0 +1,1617 @@
+fileFormatVersion: 2
+guid: 4209fd034b602754aa976d36151e3857
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: augen_0
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1974
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f143cc14f441d45b2bd32b62d42d82
+      internalID: 2073661180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_1
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1968
+        width: 27
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391ec3deb6a556c4ab3d22322e5357cb
+      internalID: 1429672124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_2
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1964
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7b02d557201be4cb2b919987b6fa97
+      internalID: -1020969712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1964
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f533218be0b223d4b9e61104fda44b17
+      internalID: -2093770523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_4
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1964
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3ddaf916c3aba41adec4229502a593
+      internalID: 1178335223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1964
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ea53fb9dded5d49a948cb9e159a32b
+      internalID: -1772694685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_6
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1964
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd719a581a6bb774fb82e4c848c0a104
+      internalID: 626791413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_7
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1964
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbb682b1ce853d4bb7a98cadaa610a7
+      internalID: -1077671940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_9
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1960
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee9435a181177147aff8710fdde5b21
+      internalID: -2058372225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1923
+        width: 17
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e3aa0f44b28ba438f3442272725c78
+      internalID: 1982028622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1922
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4813ac7e5aa4114bb33ddae54432e38
+      internalID: -801589269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1921
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9d299160cdd8b4cb5a0f72c0337d09
+      internalID: -41211032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1920
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becd863d5e81a9b489ce8bfc6cd88e07
+      internalID: -320803564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1920
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a043710216a5e6c45865dd9828eeb443
+      internalID: -2004533736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1919
+        width: 42
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb57689e0a547642b2f0b79cc335548
+      internalID: -1836467176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1913
+        width: 39
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d227c2e57043724ba22148fe4e94e87
+      internalID: -626284611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_19
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1911
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257bd3cb7fa758b4391135de34396214
+      internalID: -2060239007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_20
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1908
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a40302d2f86cf48a9ac30769b8cb60
+      internalID: -527637441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_21
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1907
+        width: 44
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bceb7776a351254fbf91f5b55cd3a4a
+      internalID: -170035979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_23
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1895
+        width: 104
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dccf059e9f4f9c44af539b46301a527
+      internalID: 766794571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_8
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1964
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a5bf343fc42fa449c0ac6e1f2407cc
+      internalID: -312609540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_10
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 1960
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cdb50ab0b65774884aa4876e604c41
+      internalID: 1695141028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_22
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1906
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8354a39bf07bb4aa9541dc707b8b14
+      internalID: 735379973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_25
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1862
+        width: 36
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246a5ab78d4281042a2b753eea9f041b
+      internalID: 1072782454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_26
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1857
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cf62572f3d04e4a9e91b963eaec88e
+      internalID: 911457493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_27
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1842
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339c770a1e44fce40a147a4dff19a5b4
+      internalID: -1378241095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_28
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1840
+        width: 79
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f20f2c3973e8f747ae9350303e95f36
+      internalID: 1632287295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_18
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1912
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d353881249936b47b27d721f589960f
+      internalID: 1351151333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_24
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1862
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaf78a7a8cf1a444b0be8ee09f285f9
+      internalID: -1426236880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1784
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4109615457863545bac08d7d0804172
+      internalID: -276001630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_30
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1783
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b43610d9eb3634f866e84f09382391
+      internalID: -1336461886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_31
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1777
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f98b9741f5f0fc408d0085d40b6c40d
+      internalID: -398429213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_32
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1778
+        width: 56
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5031e799208bc614c8f171b650dc3dcc
+      internalID: 1545895530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_33
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1777
+        width: 56
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1b234bf296b8a4b89715fa62631a02
+      internalID: -6317055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_34
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1775
+        width: 56
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5063ac7a83d1d4b4a96ada53b4cdc008
+      internalID: -495220616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_35
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1772
+        width: 44
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0116a77d227a01b44960896aeb00d023
+      internalID: -124148744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1772
+        width: 44
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472243c29680fab48a0dff325996c496
+      internalID: -1336846056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_37
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1770
+        width: 44
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc781ed2ed9f974ca862f9ae5b7ef26
+      internalID: 354788243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_38
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1770
+        width: 44
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a3fbbfa24d5e944b01538598c0706b
+      internalID: -2005282818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_39
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1757
+        width: 44
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53390ebad66bc24a8779b92bbd520a5
+      internalID: 1498872776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_40
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1757
+        width: 44
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ada98358ca46ef45a0e008e8f244437
+      internalID: 1907057394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_41
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1744
+        width: 64
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bed937067ee1841a2f76e9b8454e73
+      internalID: -989770482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_42
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1730
+        width: 64
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe31df8dfad32145b120a66cff1465a
+      internalID: -607561825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_43
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1714
+        width: 64
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766694eae5e333b42b3df11857337193
+      internalID: -285471870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_44
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1691
+        width: 56
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b580688e809ad4da7234f3e4936d4d
+      internalID: -2098001865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_47
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1366
+        width: 53
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ebcc12f0e8bc7438b7fa4a4144e9ba
+      internalID: 1738321169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_48
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1361
+        width: 53
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa96abc10561d948ac0575c1a8dbaee
+      internalID: 88509557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_49
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1354
+        width: 53
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4062f0571f1d1347b767f92faa774a2
+      internalID: -1486120270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_50
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1342
+        width: 53
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47965fcec27aa24098e7b41ffdc1b1d
+      internalID: 790580173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_45
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1412
+        width: 53
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c03c2b66147f9246970550c0b768bee
+      internalID: -1411399521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_46
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1409
+        width: 53
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f584021fb6fa80468fda72bf95c160e
+      internalID: -481486733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: augen_51
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 777
+        width: 93
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880b500d58489eb45b7d6844e08513e4
+      internalID: -846210174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      augen_49: -1486120270
+      wear_133: 1703026621
+      wear_116: -705410143
+      wear_102: 490484409
+      wear_42: 1462146908
+      wear_340: -2025126291
+      augen_4: 1178335223
+      wear_40: 598232073
+      wear_314: 469352446
+      wear_188: -317417063
+      wear_225: -2038899469
+      wear_286: 572911537
+      wear_264: 702266272
+      wear_311: 1136390128
+      wear_343: 925879419
+      wear_206: 1660151740
+      wear_142: -818774779
+      wear_152: -2117910110
+      wear_3: -480886965
+      augen_39: 1498872776
+      wear_229: 979400083
+      wear_85: 255282770
+      wear_307: 1272244644
+      wear_180: 1572984821
+      wear_138: -101990472
+      wear_348: -780317457
+      wear_131: -60680001
+      wear_221: 873014945
+      wear_83: 1213201654
+      augen_32: 1545895530
+      wear_111: 1275499244
+      wear_49: 92872786
+      wear_219: 539463187
+      augen_2: -1020969712
+      wear_179: -2073028599
+      wear_289: -1863380635
+      augen_36: -1336846056
+      wear_328: -604439054
+      wear_46: 1706003532
+      wear_113: -586871473
+      wear_329: 1049000045
+      wear_236: -2100979550
+      wear_198: 536756498
+      wear_216: 1638294643
+      wear_8: -1353091360
+      wear_347: -701751924
+      augen_20: -527637441
+      wear_220: -246669815
+      wear_257: 368270456
+      wear_204: 160858920
+      wear_321: -133671837
+      wear_48: 756345836
+      wear_52: -793617422
+      augen_33: -6317055
+      wear_35: 251803920
+      wear_55: 1954804022
+      wear_143: -946780649
+      wear_147: -1516600076
+      wear_304: 685401629
+      wear_11: -554607083
+      augen_27: -1378241095
+      wear_246: -892035049
+      wear_300: 167816698
+      wear_121: 139193207
+      wear_333: -963446749
+      wear_12: 1125700163
+      wear_84: 2003917388
+      wear_247: -620176599
+      wear_331: -741243052
+      augen_26: 911457493
+      wear_53: -1574773226
+      wear_163: -895275604
+      wear_254: 471617357
+      wear_271: -1616759932
+      wear_2: 87147086
+      wear_213: -1638994258
+      wear_30: 1247537983
+      wear_278: 917923759
+      wear_24: 1360314731
+      wear_237: 1390089652
+      wear_36: 1299701609
+      augen_44: -2098001865
+      wear_6: 1107740174
+      wear_353: -1385430035
+      wear_59: 771927348
+      wear_162: 918900945
+      wear_305: 826704290
+      augen_42: -607561825
+      wear_58: 863303229
+      wear_118: -98188409
+      wear_25: 1865624810
+      wear_1: -1971459526
+      wear_325: -1197773430
+      wear_154: 1363875488
+      wear_215: 1517627171
+      wear_281: 1724122472
+      wear_309: 874323824
+      wear_44: 1652853117
+      wear_223: 2122518442
+      augen_45: -1411399521
+      wear_327: -1105832831
+      wear_346: 62126855
+      wear_182: 1732885187
+      wear_282: -245325231
+      wear_242: 124942987
+      augen_40: 1907057394
+      wear_338: 1844954752
+      wear_315: 1499111067
+      wear_341: 384281122
+      augen_13: -41211032
+      wear_201: -1078383257
+      wear_27: 982275543
+      wear_261: -229984685
+      wear_306: -910402723
+      wear_50: 1727282166
+      wear_234: 836233469
+      augen_9: -2058372225
+      wear_317: 2147182429
+      augen_37: 354788243
+      augen_35: -124148744
+      augen_6: 626791413
+      wear_103: 218491723
+      wear_339: 935758485
+      wear_252: 1768855163
+      wear_299: 566214212
+      wear_279: -718195110
+      wear_28: 919047651
+      wear_235: -401520248
+      wear_224: 1616531777
+      augen_17: -626284611
+      wear_324: -2128260279
+      augen_23: 766794571
+      wear_136: 782465001
+      wear_203: 1174222484
+      wear_104: 752561599
+      wear_354: -923357148
+      wear_75: 1769376851
+      wear_249: 738025274
+      wear_0: 406320008
+      wear_313: -1073137781
+      wear_260: -1203808339
+      wear_335: -1972234183
+      augen_25: 1072782454
+      wear_218: 640370924
+      wear_226: 1673245210
+      wear_303: 412694106
+      wear_290: 1257537700
+      wear_63: 1627017099
+      wear_26: 2073114481
+      wear_320: 812453142
+      wear_88: 659543378
+      wear_161: 1796722657
+      wear_211: 1427714181
+      wear_196: 163014503
+      wear_212: 1473866051
+      augen_47: 1738321169
+      wear_130: 566090147
+      wear_178: -1837805281
+      wear_256: -581536618
+      wear_153: -264417819
+      wear_291: 213199172
+      wear_160: 198224833
+      wear_283: 1851320424
+      wear_144: -616175360
+      wear_288: 636997298
+      wear_189: -1704150086
+      wear_149: -1569039514
+      wear_65: -265487718
+      augen_21: -170035979
+      wear_9: 1760817040
+      wear_15: -1972480046
+      wear_330: -1800120140
+      wear_45: 593633490
+      augen_41: -989770482
+      augen_16: -1836467176
+      wear_191: 342528299
+      wear_5: -1806379583
+      wear_129: 203036143
+      wear_109: -873991758
+      wear_192: -98266054
+      wear_74: 620728983
+      wear_222: 1120129883
+      wear_207: 1886966819
+      augen_50: 790580173
+      wear_273: -2005192032
+      wear_293: 210877013
+      wear_127: 1186557783
+      wear_280: -1801938226
+      wear_34: 646432586
+      wear_268: -329682044
+      wear_64: -1471193824
+      wear_18: 152541548
+      augen_43: -285471870
+      wear_22: 137908078
+      wear_158: -1750164951
+      augen_51: -846210174
+      wear_101: -1980486422
+      wear_60: -1217902136
+      wear_287: 1716555525
+      wear_298: -257070625
+      wear_239: 1746437546
+      wear_184: -779970900
+      wear_29: -1517812576
+      wear_19: -108433786
+      wear_275: -155667174
+      wear_123: -655936088
+      wear_231: 2024843163
+      wear_13: 1475213014
+      wear_32: -1958490557
+      wear_38: 505446853
+      wear_194: 913934729
+      wear_253: -77378767
+      wear_210: -1654960142
+      wear_47: -1189128893
+      wear_269: 1836410197
+      wear_90: -279468806
+      wear_301: 944493370
+      wear_181: 417316319
+      wear_217: 902467892
+      wear_209: 1138557902
+      augen_12: -801589269
+      wear_250: -263164617
+      wear_33: 359593756
+      wear_294: 1883864692
+      wear_350: 714134172
+      wear_23: 1280914721
+      augen_0: 2073661180
+      wear_267: -1489621568
+      wear_79: -155541801
+      augen_46: -481486733
+      wear_302: 1150775363
+      augen_24: -1426236880
+      augen_18: 1351151333
+      wear_43: 964341232
+      wear_200: 1192033515
+      wear_312: 1986389150
+      augen_1: 1429672124
+      augen_22: 735379973
+      wear_39: -771711590
+      wear_344: -1768668507
+      wear_326: -2026887068
+      augen_48: 88509557
+      wear_93: -1353070577
+      wear_316: -1805527498
+      augen_10: 1695141028
+      wear_263: -144343745
+      wear_248: 709039821
+      augen_31: -398429213
+      wear_323: 407284633
+      wear_20: 1674355332
+      wear_230: 1401831784
+      wear_119: 1293830281
+      wear_186: 1871469639
+      wear_351: 1692994393
+      wear_126: -672203939
+      wear_238: 1617403385
+      augen_11: 1982028622
+      wear_285: -875967425
+      wear_199: 1446895200
+      wear_115: -872925338
+      wear_140: 1393797700
+      augen_14: -320803564
+      wear_262: 796955932
+      wear_37: -693226114
+      wear_78: -875105532
+      augen_29: -276001630
+      wear_81: -79540934
+      wear_57: -1247753708
+      wear_276: 1619772125
+      augen_8: -312609540
+      wear_128: 2096916091
+      wear_284: 2010921098
+      wear_16: -2046973273
+      wear_120: -2062025136
+      wear_322: -905121087
+      wear_197: -1492168230
+      wear_296: 617561362
+      wear_244: -867822449
+      wear_345: -758170440
+      wear_193: 477621211
+      wear_62: -804791541
+      wear_318: -508261186
+      wear_108: 1837568198
+      wear_117: -963110744
+      wear_76: 1318423966
+      wear_205: 1583922117
+      augen_15: -2004533736
+      wear_332: -1078596405
+      wear_4: -707827977
+      wear_183: 225306058
+      wear_208: -1669546025
+      augen_19: -2060239007
+      wear_187: -1135654255
+      wear_148: 1603959716
+      wear_265: 1724174193
+      wear_255: -1232368311
+      wear_14: 1430525174
+      wear_135: -1553931587
+      wear_155: 1179884028
+      wear_336: 1230265737
+      wear_164: 1551997309
+      wear_67: 1315092274
+      wear_56: 1227464420
+      augen_3: -2093770523
+      wear_51: -1993826956
+      wear_94: -1483830948
+      wear_41: 1684792247
+      wear_114: -2147462851
+      wear_112: 1252130238
+      augen_38: -2005282818
+      wear_334: 987854639
+      wear_82: 627253831
+      wear_7: -929470576
+      wear_17: 180471887
+      wear_214: 734012617
+      wear_277: 388338812
+      wear_125: 1336327226
+      wear_352: -802781083
+      wear_292: 31290240
+      wear_91: 1197496138
+      wear_31: 1722009170
+      wear_227: 757799546
+      wear_266: -109499808
+      wear_337: 1457006860
+      augen_5: -1772694685
+      wear_233: -1499673820
+      wear_156: 1408738252
+      wear_92: -1922948663
+      wear_270: -315234633
+      wear_202: -1946570856
+      wear_308: 1116394110
+      wear_295: -1133861999
+      wear_141: -1260609019
+      wear_251: -306136943
+      wear_132: 1989099198
+      wear_297: 638106674
+      wear_310: 642959179
+      wear_342: 1017605670
+      wear_61: 1955317886
+      augen_28: 1632287295
+      augen_30: -1336461886
+      wear_10: 1386255124
+      wear_228: -235694533
+      wear_349: 887224696
+      wear_87: 1897358220
+      wear_89: -646838699
+      augen_7: -1077671940
+      wear_21: -1097792309
+      augen_34: -495220616
+      wear_134: -715597544
+      wear_274: -1611301137
+      wear_139: 1316930495
+      wear_272: -1275248905
+      wear_86: 1227073497
+      wear_232: 1115140333
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

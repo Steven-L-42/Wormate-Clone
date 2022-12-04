@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9133192738708236732
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9133192738708236734}
+  - component: {fileID: 9133192738708236733}
+  - component: {fileID: 9133192738708236721}
+  - component: {fileID: 9133192738708236720}
+  - component: {fileID: 9133192738708236735}
+  - component: {fileID: 9133192738708236723}
+  - component: {fileID: 9133192738708236724}
+  - component: {fileID: 9133192738708236725}
+  m_Layer: 0
+  m_Name: PlayerSnakeManager
+  m_TagString: Player
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9133192738708236734
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9133192738708236732}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9133192738708236733
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9133192738708236732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f029b458d2736c845a2592e700d9b1cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distanceBetween: 0.15
+  speed: 1.5
+  bodyParts:
+  - {fileID: 6394567219606936621, guid: 3b79f9783f291d944a818be3a9e39363, type: 3}
+  - {fileID: 4768958906125543441, guid: a8c2b6cd7464c444a956456a35f578a9, type: 3}
+  - {fileID: 4768958906125543441, guid: 7b8e214e8945ab545b061ad6d12a8464, type: 3}
+  - {fileID: 4768958906125543441, guid: 4b919f2b88231754fa293b18079b847c, type: 3}
+  - {fileID: 4768958906125543441, guid: ee8d95df881180f489bd7ef60d9d8ac8, type: 3}
+  - {fileID: 4768958906125543441, guid: 00f06113e1f27494ab2badd02df8aa3a, type: 3}
+  - {fileID: 761901247812876951, guid: 9f16a648349d08d428df4681b3ccf923, type: 3}
+  - {fileID: 4768958906125543441, guid: 487dfe81e0210bf4d80add1dd1c6ea94, type: 3}
+  - {fileID: 761901247812876951, guid: 3bd308e7384b2a744a6dd7fd864e4dfd, type: 3}
+  eat: {fileID: 9133192738708236721}
+  move: {fileID: 0}
+--- !u!114 &9133192738708236721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9133192738708236732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29c7a07d8a2bf9d4380d737d7be336f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Tag: Food
+  Letters: {fileID: 0}
+  Increase: 0.005
+  Score: 0
+  addBody: {fileID: 9133192738708236723}
+--- !u!114 &9133192738708236720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9133192738708236732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c115278fc5ef64640bb66981d383d8f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Tag: Enemy
+  Increase: 0.005
+  eat: {fileID: 9133192738708236721}
+  growEnemy: {fileID: 0}
+  growPlayer: {fileID: 0}
+--- !u!114 &9133192738708236735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9133192738708236732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e29980f0fe8f64446ba2edee99fe30b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &9133192738708236723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9133192738708236732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a81b4b7b1d2096046bb9d0c8964b1575, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player1: {fileID: 761901247812876951, guid: 3bd308e7384b2a744a6dd7fd864e4dfd, type: 3}
+  player2: {fileID: 4768958906125543441, guid: a8c2b6cd7464c444a956456a35f578a9, type: 3}
+  player3: {fileID: 4768958906125543441, guid: 7b8e214e8945ab545b061ad6d12a8464, type: 3}
+  player4: {fileID: 4768958906125543441, guid: 4b919f2b88231754fa293b18079b847c, type: 3}
+  player5: {fileID: 4768958906125543441, guid: ee8d95df881180f489bd7ef60d9d8ac8, type: 3}
+  player6: {fileID: 4768958906125543441, guid: 00f06113e1f27494ab2badd02df8aa3a, type: 3}
+  player7: {fileID: 761901247812876951, guid: 9f16a648349d08d428df4681b3ccf923, type: 3}
+  player8: {fileID: 4768958906125543441, guid: 487dfe81e0210bf4d80add1dd1c6ea94, type: 3}
+--- !u!135 &9133192738708236724
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9133192738708236732}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.6
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!54 &9133192738708236725
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9133192738708236732}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
