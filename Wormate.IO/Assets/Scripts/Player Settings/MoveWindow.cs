@@ -1,10 +1,7 @@
-using Mirror;
 using UnityEngine;
-using UnityEngine.Networking;
 
-public class MoveWindow : NetworkBehaviour
+public class MoveWindow : MonoBehaviour
 {
-    [SyncVar]
     public Vector3 offset;
  
     public void MoveMainCamera(Transform trPlayer)

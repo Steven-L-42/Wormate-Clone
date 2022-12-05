@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 6384884400852793462}
   - component: {fileID: 6384884400852793468}
   - component: {fileID: 1152752014224239284}
+  - component: {fileID: 2261844612290020857}
   m_Layer: 0
   m_Name: SnakeManager
   m_TagString: Player
@@ -958,7 +959,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6384884400852793450}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 29c7a07d8a2bf9d4380d737d7be336f4, type: 3}
   m_Name: 
@@ -1053,6 +1054,34 @@ MonoBehaviour:
   serverOnly: 0
   visible: 0
   hasSpawned: 0
+--- !u!114 &2261844612290020857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6384884400852793450}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f74aedd71d9a4f55b3ce499326d45fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  syncDirection: 1
+  syncMode: 1
+  syncInterval: 0
+  target: {fileID: 6384884400852793458}
+  clientAuthority: 0
+  onlySyncOnChange: 1
+  bufferResetMultiplier: 5
+  positionSensitivity: 0.05
+  rotationSensitivity: 0.05
+  scaleSensitivity: 0.05
+  syncPosition: 1
+  syncRotation: 1
+  syncScale: 0
+  showGizmos: 0
+  showOverlay: 0
+  overlayColor: {r: 0, g: 0, b: 0, a: 0.5}
 --- !u!1 &6384884401090389672
 GameObject:
   m_ObjectHideFlags: 0
